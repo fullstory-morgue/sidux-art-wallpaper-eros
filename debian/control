@@ -5,8 +5,8 @@ Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
-XS-Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-eros/trunk
-XS-Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-eros/trunk/
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-eros/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-eros/trunk/
 
 Package: sidux-art-wallpaper-eros
 Architecture: all
