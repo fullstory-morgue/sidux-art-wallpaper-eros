@@ -9,6 +9,8 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-eros/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-eros/trunk/
 
 Package: sidux-art-wallpaper-eros
+Provides: sidux-art-wallpaper-theme
+Conflicts: sidux-art-wallpaper-eros-edu
 Architecture: all
 Description: sidux wallpaper for 2007-04 release 
  the default wallpaper for the 2007-04 (Eros)
